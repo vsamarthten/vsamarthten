@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vsamarthten
-- 👀 I’m interested in all things Data Engineering
+- 👀 I’m interested in all things Data
 - 🌱 I’m currently learning Data Warehouse Design
-- 💞️ I’m looking to collaborate on everything that involves flow of data
+- 💞️ I’m looking to collaborate on everything that involves improvements in data ingestion/extraction
 - 📫 How to reach me - https://www.linkedin.com/in/samarthdotv
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Watched 3 FIFA WC'22 matches (LIVE)
